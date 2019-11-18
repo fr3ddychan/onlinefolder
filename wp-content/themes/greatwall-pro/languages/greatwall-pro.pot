@@ -1,0 +1,1347 @@
+# Copyright (C) 2016 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: GreatWall Pro 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2018-03-03 23:30+0800\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: HappyThemes <support@happythemes.com>\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:14
+msgid "404 Error - Page Not Found"
+msgstr ""
+
+#: 404.php:26
+msgid "Sorry, but it looks like nothing was found at this location. You may try one of the links below or do a search."
+msgstr ""
+
+#: 404.php:42
+msgid "Most Used Categories"
+msgstr ""
+
+#: admin/customizer-options.php:44
+msgid "Theme Settings"
+msgstr ""
+
+#: admin/customizer-options.php:50
+msgid "Logo"
+msgstr ""
+
+#: admin/customizer-options.php:58
+msgid "Favicon"
+msgstr ""
+
+#: admin/customizer-options.php:66
+msgid "Theme Primary Color"
+msgstr ""
+
+#: admin/customizer-options.php:74
+msgid "Page Header Background Color"
+msgstr ""
+
+#: admin/customizer-options.php:82
+msgid "Body Font"
+msgstr ""
+
+#: admin/customizer-options.php:91
+msgid "Heading Font"
+msgstr ""
+
+#: admin/customizer-options.php:100
+msgid "Site Layout"
+msgstr ""
+
+#: admin/customizer-options.php:109
+msgid "Sticky header navigation"
+msgstr ""
+
+#: admin/customizer-options.php:117
+msgid "Display header search form"
+msgstr ""
+
+#: admin/customizer-options.php:125
+msgid "Display cart menu on header"
+msgstr ""
+
+#: admin/customizer-options.php:133
+msgid "Projects Page Title"
+msgstr ""
+
+#: admin/customizer-options.php:141
+msgid "Services Page Title"
+msgstr ""
+
+#: admin/customizer-options.php:149
+msgid "Employees Page Title"
+msgstr ""
+
+#: admin/customizer-options.php:157
+msgid "Blog Page Title"
+msgstr ""
+
+#: admin/customizer-options.php:165
+msgid "Display featured content on homepage"
+msgstr ""
+
+#: admin/customizer-options.php:173
+msgid "Number of featured posts to show"
+msgstr ""
+
+#: admin/customizer-options.php:181
+msgid "Latest Posts Style"
+msgstr ""
+
+#: admin/customizer-options.php:190
+msgid "Number of words to show on excerpt"
+msgstr ""
+
+#: admin/customizer-options.php:198
+msgid "Make single project page full width"
+msgstr ""
+
+#: admin/customizer-options.php:206
+msgid "Display breadcrumbs on single posts"
+msgstr ""
+
+#: admin/customizer-options.php:214
+msgid "Display share icons on single posts"
+msgstr ""
+
+#: admin/customizer-options.php:222
+msgid "Display featured image on single posts"
+msgstr ""
+
+#: admin/customizer-options.php:230
+msgid "Display author box on single posts"
+msgstr ""
+
+#: admin/customizer-options.php:237
+msgid "Display related posts on single posts"
+msgstr ""
+
+#: admin/customizer-options.php:245
+msgid "Display footer widgets"
+msgstr ""
+
+#: admin/customizer-options.php:253
+msgid "Display \"back to top\" icon link on the site bottom"
+msgstr ""
+
+#: admin/customizer-options.php:261
+msgid "Customize Site Footer Text/Link"
+msgstr ""
+
+#: admin/extensions/fonts.php:18
+msgid "Standard Fonts"
+msgstr ""
+
+#: admin/extensions/fonts.php:20
+msgid "Google Fonts"
+msgstr ""
+
+#: admin/extensions/fonts.php:125
+msgid "All"
+msgstr ""
+
+#: admin/extensions/fonts.php:126
+msgid "Cyrillic"
+msgstr ""
+
+#: admin/extensions/fonts.php:127
+msgid "Cyrillic Extended"
+msgstr ""
+
+#: admin/extensions/fonts.php:128
+msgid "Devanagari"
+msgstr ""
+
+#: admin/extensions/fonts.php:129
+msgid "Greek"
+msgstr ""
+
+#: admin/extensions/fonts.php:130
+msgid "Greek Extended"
+msgstr ""
+
+#: admin/extensions/fonts.php:131
+msgid "Khmer"
+msgstr ""
+
+#: admin/extensions/fonts.php:132
+msgid "Latin"
+msgstr ""
+
+#: admin/extensions/fonts.php:133
+msgid "Latin Extended"
+msgstr ""
+
+#: admin/extensions/fonts.php:134
+msgid "Vietnamese"
+msgstr ""
+
+#: archive-projects.php:29 inc/widgets/home-portfolio.php:36
+#: inc/widgets/home-portfolio.php:170
+msgid "Show all"
+msgstr ""
+
+#: category.php:14
+msgid "All posts in"
+msgstr ""
+
+#: comments.php:40 comments.php:61
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:78
+msgid "Comments are closed."
+msgstr ""
+
+#: demo-content/setup.php:15
+msgid "Demo content"
+msgstr ""
+
+#: footer.php:63
+msgid "Theme by"
+msgstr ""
+
+#: footer.php:86
+msgid "Back to top"
+msgstr ""
+
+#: header.php:281
+msgid "Add menu for location: Primary Menu"
+msgstr ""
+
+#: header.php:300
+msgid "Search"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:393
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:394
+#: inc/classes/class-tgm-plugin-activation.php:3254
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:395
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:399
+#, php-format
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:403
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2077
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2368
+msgid "Required"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2371
+msgid "Recommended"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2387
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2390
+msgid "External Source"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2393
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2410
+msgid "Not Installed"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2414
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2416
+msgid "Active"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2422
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2425
+msgid "Requires Update"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2428
+msgid "Update recommended"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2585
+msgid "Installed version:"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2593
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2605
+msgid "Available version:"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2642
+msgid "Plugin"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2643
+msgid "Source"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2644
+msgid "Type"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2648
+msgid "Version"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2649
+msgid "Status"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2698
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2703
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2709
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2812
+msgid "Install"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2818
+msgid "Update"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2821
+msgid "Activate"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2852
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2854
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2895
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2897
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3253
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3593
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3596
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3598
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3602
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3604
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3605
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3607
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3610
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3613
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3615
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/contact-metabox.php:16
+msgid "Contact info"
+msgstr ""
+
+#: inc/contact-metabox.php:49
+msgid "Enter your address for the map marker"
+msgstr ""
+
+#: inc/contact-metabox.php:54
+msgid "Enter your Contact Form 7 ID"
+msgstr ""
+
+#: inc/contact-metabox.php:60
+msgid "Enter your title for the aside contact details"
+msgstr ""
+
+#: inc/contact-metabox.php:64
+msgid "Enter your address for the aside contact details"
+msgstr ""
+
+#: inc/contact-metabox.php:68
+msgid "Enter your email for the aside contact details"
+msgstr ""
+
+#: inc/contact-metabox.php:72
+msgid "Enter your phone number for the aside contact details"
+msgstr ""
+
+#: inc/page-builder.php:50
+msgid "GreatWall Pro Theme Widgets"
+msgstr ""
+
+#: inc/page-builder.php:63
+msgid "Bottom Border Color"
+msgstr ""
+
+#: inc/page-builder.php:69
+msgid "Top/bottom padding"
+msgstr ""
+
+#: inc/page-builder.php:71
+msgid "Add a value in the field to change the top/bottom row padding, otherwise 100px will be applied by default"
+msgstr ""
+
+#: inc/page-builder.php:76
+msgid "Center align the content?"
+msgstr ""
+
+#: inc/page-builder.php:78
+msgid "This may or may not work. It depends on the widget styles."
+msgstr ""
+
+#: inc/page-builder.php:84
+msgid "Color"
+msgstr ""
+
+#: inc/page-builder.php:86
+msgid "Color of the row."
+msgstr ""
+
+#: inc/page-builder.php:91
+msgid "Background Image"
+msgstr ""
+
+#: inc/page-builder.php:93
+msgid "Background image of the row."
+msgstr ""
+
+#: inc/page-builder.php:99
+msgid "Mobile padding"
+msgstr ""
+
+#: inc/page-builder.php:101
+msgid "Here you can select a top/bottom row padding for screen sizes < 1024px"
+msgstr ""
+
+#: inc/page-builder.php:103
+msgid "Default"
+msgstr ""
+
+#: inc/page-builder.php:104
+msgid "0"
+msgstr ""
+
+#: inc/page-builder.php:105
+msgid "15px"
+msgstr ""
+
+#: inc/page-builder.php:106
+msgid "30px"
+msgstr ""
+
+#: inc/page-builder.php:107
+msgid "45px"
+msgstr ""
+
+#: inc/page-builder.php:113
+msgid "Disable row overlay?"
+msgstr ""
+
+#: inc/page-builder.php:119
+msgid "Overlay color"
+msgstr ""
+
+#: inc/page-builder.php:180
+msgid "Title alignment"
+msgstr ""
+
+#: inc/page-builder.php:184 inc/page-builder.php:197
+msgid "Left"
+msgstr ""
+
+#: inc/page-builder.php:185 inc/page-builder.php:198
+msgid "Center"
+msgstr ""
+
+#: inc/page-builder.php:186 inc/page-builder.php:199
+msgid "Right"
+msgstr ""
+
+#: inc/page-builder.php:189 inc/page-builder.php:202
+msgid "This setting depends on the content, it may or may not work"
+msgstr ""
+
+#: inc/page-builder.php:193
+msgid "Content alignment"
+msgstr ""
+
+#: inc/page-builder.php:206
+msgid "Widget title color"
+msgstr ""
+
+#: inc/page-builder.php:213
+msgid "Headings color"
+msgstr ""
+
+#: inc/page-builder.php:217
+msgid "This applies to all headings in the widget, except the widget title"
+msgstr ""
+
+#: inc/template-tags.php:23
+msgid "Views"
+msgstr ""
+
+#: inc/template-tags.php:115
+msgid "Featured this post on blog slider"
+msgstr ""
+
+#: inc/template-tags.php:180
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: inc/widgets/home-call-to-action.php:6
+msgid "Display a call to action block."
+msgstr ""
+
+#: inc/widgets/home-call-to-action.php:7
+msgid "Home - Call to action"
+msgstr ""
+
+#: inc/widgets/home-call-to-action.php:18 inc/widgets/home-clients.php:23
+#: inc/widgets/home-contact.php:24 inc/widgets/home-employees.php:22
+#: inc/widgets/home-facts.php:32 inc/widgets/home-featured-content.php:146
+#: inc/widgets/home-latest-news.php:20 inc/widgets/home-pricing.php:30
+#: inc/widgets/home-services-type-a.php:30
+#: inc/widgets/home-services-type-b.php:30 inc/widgets/home-skills.php:25
+#: inc/widgets/home-testimonials.php:22 inc/widgets/home-timeline.php:27
+#: inc/widgets/widget-ad.php:97 inc/widgets/widget-contact.php:20
+#: inc/widgets/widget-newsletter.php:97 inc/widgets/widget-popular.php:155
+#: inc/widgets/widget-random.php:130 inc/widgets/widget-recent.php:154
+#: inc/widgets/widget-social.php:140 inc/widgets/widget-views.php:131
+msgid "Title"
+msgstr ""
+
+#: inc/widgets/home-call-to-action.php:20
+msgid "Enter your call to action."
+msgstr ""
+
+#: inc/widgets/home-call-to-action.php:22
+msgid "Link for the button"
+msgstr ""
+
+#: inc/widgets/home-call-to-action.php:24
+msgid "Title for the button"
+msgstr ""
+
+#: inc/widgets/home-call-to-action.php:27
+msgid "Display the button inline with the text?"
+msgstr ""
+
+#: inc/widgets/home-clients.php:6
+msgid "Display your clients list."
+msgstr ""
+
+#: inc/widgets/home-clients.php:7
+msgid "Home - Clients"
+msgstr ""
+
+#: inc/widgets/home-clients.php:21
+msgid "In order to display this widget, you must first add some clients from your admin area. Set your client logos as featured images."
+msgstr ""
+
+#: inc/widgets/home-clients.php:26
+msgid "Number of clients to show (-1 shows all of them):"
+msgstr ""
+
+#: inc/widgets/home-clients.php:28
+msgid "The URL for your button [In case you want a button below your clients block]"
+msgstr ""
+
+#: inc/widgets/home-clients.php:30
+msgid "The text for the button [Defaults to <em>See all our clients</em> if left empty]"
+msgstr ""
+
+#: inc/widgets/home-clients.php:32
+msgid "Enter the slug for your category or leave empty to show all clients."
+msgstr ""
+
+#: inc/widgets/home-clients.php:36
+msgid "Open clients links in a new tab?"
+msgstr ""
+
+#: inc/widgets/home-clients.php:113
+msgid "See all our clients"
+msgstr ""
+
+#: inc/widgets/home-contact.php:6
+msgid "Display your contact info on your front page"
+msgstr ""
+
+#: inc/widgets/home-contact.php:7
+msgid "Home - Contact"
+msgstr ""
+
+#: inc/widgets/home-contact.php:28
+msgid "A short call to action above your address"
+msgstr ""
+
+#: inc/widgets/home-contact.php:30 inc/widgets/widget-contact.php:24
+msgid "Enter your address"
+msgstr ""
+
+#: inc/widgets/home-contact.php:32
+msgid "A short call to action above your phone number"
+msgstr ""
+
+#: inc/widgets/home-contact.php:34 inc/widgets/widget-contact.php:27
+msgid "Enter your phone number"
+msgstr ""
+
+#: inc/widgets/home-contact.php:36
+msgid "A short call to action above your email address"
+msgstr ""
+
+#: inc/widgets/home-contact.php:38 inc/widgets/widget-contact.php:30
+msgid "Enter your email address"
+msgstr ""
+
+#: inc/widgets/home-employees.php:6
+msgid "Display your team members in a stylish way."
+msgstr ""
+
+#: inc/widgets/home-employees.php:7
+msgid "Home - Employees"
+msgstr ""
+
+#: inc/widgets/home-employees.php:20
+msgid "In order to display this widget, you must first add some employees from the dashboard. Add as many as you want and the theme will automatically display them all."
+msgstr ""
+
+#: inc/widgets/home-employees.php:25
+msgid "Number of employees to show (-1 shows all of them):"
+msgstr ""
+
+#: inc/widgets/home-employees.php:27
+msgid "Enter an URL here if you want to section to link somewhere."
+msgstr ""
+
+#: inc/widgets/home-employees.php:29
+msgid "The text for the button [Defaults to <em>See all our employees</em> if left empty]"
+msgstr ""
+
+#: inc/widgets/home-employees.php:31
+msgid "Enter the slug for your category or leave empty to show all employees."
+msgstr ""
+
+#: inc/widgets/home-employees.php:136
+msgid "See all our employees"
+msgstr ""
+
+#: inc/widgets/home-facts.php:7
+msgid "Show your visitors some facts about your company."
+msgstr ""
+
+#: inc/widgets/home-facts.php:8
+msgid "Home - Facts"
+msgstr ""
+
+#: inc/widgets/home-facts.php:30
+msgid "You can find a list of the available icons "
+msgstr ""
+
+#: inc/widgets/home-facts.php:30
+msgid "here."
+msgstr ""
+
+#: inc/widgets/home-facts.php:30
+msgid "Usage example: <strong>fa-android</strong>"
+msgstr ""
+
+#: inc/widgets/home-facts.php:38
+msgid "First fact name"
+msgstr ""
+
+#: inc/widgets/home-facts.php:43
+msgid "First fact value"
+msgstr ""
+
+#: inc/widgets/home-facts.php:48
+msgid "First fact icon"
+msgstr ""
+
+#: inc/widgets/home-facts.php:54
+msgid "Second fact name"
+msgstr ""
+
+#: inc/widgets/home-facts.php:59
+msgid "Second fact value"
+msgstr ""
+
+#: inc/widgets/home-facts.php:64
+msgid "Second fact icon"
+msgstr ""
+
+#: inc/widgets/home-facts.php:70
+msgid "Third fact name"
+msgstr ""
+
+#: inc/widgets/home-facts.php:75
+msgid "Third fact value"
+msgstr ""
+
+#: inc/widgets/home-facts.php:80
+msgid "Third fact icon"
+msgstr ""
+
+#: inc/widgets/home-facts.php:86
+msgid "Fourth fact name"
+msgstr ""
+
+#: inc/widgets/home-facts.php:91
+msgid "Fourth fact value"
+msgstr ""
+
+#: inc/widgets/home-facts.php:96
+msgid "Fourth fact icon"
+msgstr ""
+
+#: inc/widgets/home-featured-content.php:153 inc/widgets/widget-social.php:147
+msgid "Description"
+msgstr ""
+
+#: inc/widgets/home-featured-content.php:160
+msgid "Button One Text"
+msgstr ""
+
+#: inc/widgets/home-featured-content.php:167
+msgid "Button One Link"
+msgstr ""
+
+#: inc/widgets/home-featured-content.php:174
+msgid "Button Two Text"
+msgstr ""
+
+#: inc/widgets/home-featured-content.php:181
+msgid "Button Two Link"
+msgstr ""
+
+#: inc/widgets/home-latest-news.php:6
+msgid "Show the latest news from your blog."
+msgstr ""
+
+#: inc/widgets/home-latest-news.php:7
+msgid "Home - Latest News"
+msgstr ""
+
+#: inc/widgets/home-latest-news.php:23
+msgid "Number of posts to show:"
+msgstr ""
+
+#: inc/widgets/home-latest-news.php:25
+msgid "Enter the slug for your category or leave empty to show posts from all categories."
+msgstr ""
+
+#: inc/widgets/home-latest-news.php:27
+msgid "Add the text for the button here if you want to change the default <em>See all our news</em>"
+msgstr ""
+
+#: inc/widgets/home-latest-news.php:57 inc/widgets/home-latest-news.php:59
+msgid "See all our news"
+msgstr ""
+
+#: inc/widgets/home-portfolio.php:12
+msgid "Display your projects in a grid."
+msgstr ""
+
+#: inc/widgets/home-portfolio.php:13
+msgid "Home - Portfolio"
+msgstr ""
+
+#: inc/widgets/home-portfolio.php:174 inc/widgets/home-social.php:57
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/home-portfolio.php:176
+msgid "Number of projects to show (-1 shows all of them):"
+msgstr ""
+
+#: inc/widgets/home-portfolio.php:178
+msgid "Enter the slugs (comma separated) for your categories or leave empty to show all projects."
+msgstr ""
+
+#: inc/widgets/home-portfolio.php:181
+msgid "Show navigation filter? (Category slugs must be specified)."
+msgstr ""
+
+#: inc/widgets/home-portfolio.php:182
+msgid "\"Show all\" text:"
+msgstr ""
+
+#: inc/widgets/home-portfolio.php:185
+msgid "Show project title?"
+msgstr ""
+
+#: inc/widgets/home-pricing.php:11
+msgid "Show what plans you are able to provide."
+msgstr ""
+
+#: inc/widgets/home-pricing.php:12
+msgid "Home - Pricing Tables"
+msgstr ""
+
+#: inc/widgets/home-pricing.php:28
+msgid "In order to display this widget, you must first add some pricing tables from your admin area."
+msgstr ""
+
+#: inc/widgets/home-pricing.php:33
+msgid "Number of pricing tables to show (-1 shows all of them):"
+msgstr ""
+
+#: inc/widgets/home-pricing.php:35
+msgid "The URL for your button [In case you want a button below your pricing tables block]"
+msgstr ""
+
+#: inc/widgets/home-pricing.php:37
+msgid "The text for the button [Defaults to <em>See all our plans</em> if left empty]"
+msgstr ""
+
+#: inc/widgets/home-pricing.php:39
+msgid "Enter the slug for your category or leave empty to show all pricing tables."
+msgstr ""
+
+#: inc/widgets/home-pricing.php:41
+msgid "Pick the style for this widget:"
+msgstr ""
+
+#: inc/widgets/home-pricing.php:43
+msgid "Style 1"
+msgstr ""
+
+#: inc/widgets/home-pricing.php:44
+msgid "Style 2"
+msgstr ""
+
+#: inc/widgets/home-pricing.php:45
+msgid "Style 3"
+msgstr ""
+
+#: inc/widgets/home-pricing.php:49
+msgid "Open button links in a new tab?"
+msgstr ""
+
+#: inc/widgets/home-pricing.php:147
+msgid "See all our plans"
+msgstr ""
+
+#: inc/widgets/home-services-type-a.php:11
+#: inc/widgets/home-services-type-b.php:11
+msgid "Show what services you are able to provide."
+msgstr ""
+
+#: inc/widgets/home-services-type-a.php:12
+msgid "Home - Services - A"
+msgstr ""
+
+#: inc/widgets/home-services-type-a.php:28
+#: inc/widgets/home-services-type-b.php:28
+msgid "In order to display this widget, you must first add some services from your admin area."
+msgstr ""
+
+#: inc/widgets/home-services-type-a.php:33
+#: inc/widgets/home-services-type-b.php:33
+msgid "Number of services to show (-1 shows all of them):"
+msgstr ""
+
+#: inc/widgets/home-services-type-a.php:35
+#: inc/widgets/home-services-type-b.php:35
+msgid "The URL for your button [In case you want a button below your services block]"
+msgstr ""
+
+#: inc/widgets/home-services-type-a.php:37
+#: inc/widgets/home-services-type-b.php:37
+msgid "The text for the button [Defaults to <em>See all our services</em> if left empty]"
+msgstr ""
+
+#: inc/widgets/home-services-type-a.php:39
+#: inc/widgets/home-services-type-b.php:39
+msgid "Enter the slug for your category or leave empty to show all services."
+msgstr ""
+
+#: inc/widgets/home-services-type-a.php:42
+msgid "Display services in two columns instead of three?"
+msgstr ""
+
+#: inc/widgets/home-services-type-a.php:43
+#: inc/widgets/home-services-type-b.php:52
+msgid "Content to display:"
+msgstr ""
+
+#: inc/widgets/home-services-type-a.php:45
+#: inc/widgets/home-services-type-b.php:54
+msgid "Full content"
+msgstr ""
+
+#: inc/widgets/home-services-type-a.php:46
+#: inc/widgets/home-services-type-b.php:55
+msgid "Excerpt"
+msgstr ""
+
+#: inc/widgets/home-services-type-a.php:146
+#: inc/widgets/home-services-type-b.php:161
+msgid "See all our services"
+msgstr ""
+
+#: inc/widgets/home-services-type-b.php:12
+msgid "Home - Services - B"
+msgstr ""
+
+#: inc/widgets/home-services-type-b.php:42
+msgid "Number of columns:"
+msgstr ""
+
+#: inc/widgets/home-skills.php:6
+msgid "Show your visitors some of your skills."
+msgstr ""
+
+#: inc/widgets/home-skills.php:7
+msgid "Home - Skills"
+msgstr ""
+
+#: inc/widgets/home-skills.php:31
+msgid "First skill name"
+msgstr ""
+
+#: inc/widgets/home-skills.php:36
+msgid "First skill value"
+msgstr ""
+
+#: inc/widgets/home-skills.php:42
+msgid "Second skill name"
+msgstr ""
+
+#: inc/widgets/home-skills.php:47
+msgid "Second skill value"
+msgstr ""
+
+#: inc/widgets/home-skills.php:53
+msgid "Third skill name"
+msgstr ""
+
+#: inc/widgets/home-skills.php:58
+msgid "Third skill value"
+msgstr ""
+
+#: inc/widgets/home-skills.php:64
+msgid "Fourth skill name"
+msgstr ""
+
+#: inc/widgets/home-skills.php:69
+msgid "Fourth skill value"
+msgstr ""
+
+#: inc/widgets/home-social.php:5
+msgid "Display your social profile on your front page"
+msgstr ""
+
+#: inc/widgets/home-social.php:6
+msgid "Home - Social Profile"
+msgstr ""
+
+#: inc/widgets/home-social.php:52
+#, php-format
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr ""
+
+#: inc/widgets/home-social.php:60
+msgid "In order to display your social icons in a widget, all you need to do is go to <strong>Appearance > Menus</strong> and create a menu containing links to your social profiles, then assign that menu here. Supported networks: Facebook, Twitter, Google Plus, Instagram, Dribble, Vimeo, Linkedin, Youtube, Flickr, Pinterest, Tumblr, Foursquare, Behance."
+msgstr ""
+
+#: inc/widgets/home-social.php:62
+msgid "Select your social menu:"
+msgstr ""
+
+#: inc/widgets/home-social.php:64
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: inc/widgets/home-testimonials.php:6
+msgid "Display your testimonials in a slider."
+msgstr ""
+
+#: inc/widgets/home-testimonials.php:7
+msgid "Home - Testimonials"
+msgstr ""
+
+#: inc/widgets/home-testimonials.php:20
+msgid "In order to display this widget, you must first add some testimonials from your admin area."
+msgstr ""
+
+#: inc/widgets/home-testimonials.php:25
+msgid "Number of testimonials to show (-1 shows all of them):"
+msgstr ""
+
+#: inc/widgets/home-testimonials.php:27
+msgid "The URL for your button [In case you want a button below your testimonials block]"
+msgstr ""
+
+#: inc/widgets/home-testimonials.php:29
+msgid "The text for the button [Defaults to <em>See all our testimonials</em> if left empty]"
+msgstr ""
+
+#: inc/widgets/home-testimonials.php:31
+msgid "Enter the slug for your category or leave empty to show all testimonials."
+msgstr ""
+
+#: inc/widgets/home-testimonials.php:106
+msgid "See all our testimonials"
+msgstr ""
+
+#: inc/widgets/home-timeline.php:11
+msgid "Display your timeline."
+msgstr ""
+
+#: inc/widgets/home-timeline.php:12
+msgid "Home - Timeline"
+msgstr ""
+
+#: inc/widgets/home-timeline.php:25
+msgid "This widget requires you to re-import the settings file and create some timeline events."
+msgstr ""
+
+#: inc/widgets/home-timeline.php:30
+msgid "Number of timeline events to show (-1 shows all of them):"
+msgstr ""
+
+#: inc/widgets/home-timeline.php:32
+msgid "The URL for your button [In case you want a button below your timeline block]"
+msgstr ""
+
+#: inc/widgets/home-timeline.php:34
+msgid "The text for the button [Defaults to <em>See all our events</em> if left empty]"
+msgstr ""
+
+#: inc/widgets/home-timeline.php:36
+msgid "Enter the slug for your category or leave empty to show all events."
+msgstr ""
+
+#: inc/widgets/home-timeline.php:143
+msgid "See all our timeline"
+msgstr ""
+
+#: inc/widgets/widget-ad.php:104
+msgid "Ad Code"
+msgstr ""
+
+#: inc/widgets/widget-contact.php:6
+msgid "Display your contact info"
+msgstr ""
+
+#: inc/widgets/widget-contact.php:7
+msgid "&raquo; Contact info"
+msgstr ""
+
+#: inc/widgets/widget-newsletter.php:104
+msgid "Subscribe Form Code"
+msgstr ""
+
+#: inc/widgets/widget-popular.php:23
+msgid "Display popular posts by comments with thumbnails."
+msgstr ""
+
+#: inc/widgets/widget-popular.php:29
+msgid "&raquo; Popular Posts"
+msgstr ""
+
+#: inc/widgets/widget-popular.php:162 inc/widgets/widget-random.php:137
+#: inc/widgets/widget-recent.php:161 inc/widgets/widget-views.php:138
+msgid "Number of posts to show"
+msgstr ""
+
+#: inc/widgets/widget-popular.php:170 inc/widgets/widget-random.php:145
+#: inc/widgets/widget-recent.php:169 inc/widgets/widget-views.php:146
+msgid "Display post date?"
+msgstr ""
+
+#: inc/widgets/widget-random.php:23
+msgid "Display random posts with thumbnails."
+msgstr ""
+
+#: inc/widgets/widget-random.php:29
+msgid "&raquo; Random Posts"
+msgstr ""
+
+#: inc/widgets/widget-recent.php:23
+msgid "Display recent posts with thumbnails."
+msgstr ""
+
+#: inc/widgets/widget-recent.php:29
+msgid "&raquo; Recent Posts"
+msgstr ""
+
+#: inc/widgets/widget-social.php:23
+msgid "Display your social media icons."
+msgstr ""
+
+#: inc/widgets/widget-social.php:29
+msgid "&raquo; Social Icons"
+msgstr ""
+
+#: inc/widgets/widget-social.php:154
+msgid "Facebook"
+msgstr ""
+
+#: inc/widgets/widget-social.php:161
+msgid "Twitter"
+msgstr ""
+
+#: inc/widgets/widget-social.php:168
+msgid "Google Plus"
+msgstr ""
+
+#: inc/widgets/widget-social.php:175
+msgid "Pinterest"
+msgstr ""
+
+#: inc/widgets/widget-social.php:182
+msgid "YouTube"
+msgstr ""
+
+#: inc/widgets/widget-social.php:189
+msgid "LinkedIn"
+msgstr ""
+
+#: inc/widgets/widget-social.php:196
+msgid "Instagram"
+msgstr ""
+
+#: inc/widgets/widget-social.php:203
+msgid "Tumblr"
+msgstr ""
+
+#: inc/widgets/widget-social.php:210
+msgid "RSS Feed"
+msgstr ""
+
+#: inc/widgets/widget-views.php:23
+msgid "Display the most viewed posts with thumbnails."
+msgstr ""
+
+#: inc/widgets/widget-views.php:29
+msgid "&raquo; Most Viewed Posts"
+msgstr ""
+
+#: inc/woocommerce.php:101
+msgid "My Account"
+msgstr ""
+
+#: inc/woocommerce.php:103
+msgid "Login/Register"
+msgstr ""
+
+#: index.php:73 template-parts/content-grid.php:32
+#: template-parts/content-loop.php:27
+msgid "Continue Reading &raquo;"
+msgstr ""
+
+#: sidebar-project.php:16 sidebar.php:16
+msgid "There is no content here"
+msgstr ""
+
+#: sidebar-project.php:17
+msgid "Please put widgets to the <strong>Project Sidebar</strong>"
+msgstr ""
+
+#: sidebar-project.php:18 sidebar.php:18
+msgid "Okay, I'm doing now &raquo;"
+msgstr ""
+
+#: sidebar.php:17
+msgid "Please put widgets to the <strong>Sidebar</strong>"
+msgstr ""
+
+#: template-parts/content-list.php:25
+msgid "Read more &raquo;"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing found"
+msgstr ""
+
+#: template-parts/content-none.php:20
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:30
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: template-parts/content-single.php:16
+msgid "Home"
+msgstr ""
+
+#: template-parts/content-single.php:61
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: template-parts/content-single.php:142
+msgid "You May Also Like"
+msgstr ""
+
+#: template-parts/content-single.php:174
+msgid "About the Author:"
+msgstr ""
+
+#: template-parts/entry-meta.php:5
+msgid "Leave a Comment"
+msgstr ""
+
+#: template-parts/entry-meta.php:5
+msgid "1 Comment"
+msgstr ""
+
+#: template-parts/entry-meta.php:5
+msgid "comments off"
+msgstr ""
+
+#: template-parts/entry-share.php:3
+msgid "Tweet on Twitter"
+msgstr ""
+
+#: template-parts/entry-share.php:5
+msgid "Share on Facebook"
+msgstr ""
+
+#: template-parts/pagination.php:7
+msgid "Previous"
+msgstr ""
+
+#: template-parts/pagination.php:7
+msgid "Next"
+msgstr ""
